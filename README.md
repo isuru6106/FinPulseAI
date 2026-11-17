@@ -4,7 +4,7 @@
 **Project Type:** Mobile Application Development  
 **Name:** Isuru Udeshitha  
 **Framework:** React Native with Expo
-**Demo Video Link:** https://drive.google.com/file/d/14KCUuXJXOM3qZ72rTlGIxX36uc6YjDyW/view?usp=drive_link
+- **Demo Video Link:** https://drive.google.com/file/d/14KCUuXJXOM3qZ72rTlGIxX36uc6YjDyW/view?usp=drive_link
 
 ## 1. Project Overview
 
