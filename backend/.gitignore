@@ -22,3 +22,6 @@ node_modules/
 
 # Additional generated Prisma output
 /generated/prisma/
+
+# Local schema backups
+*.bak
